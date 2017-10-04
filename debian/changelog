@@ -1,4 +1,4 @@
-gnome-control-center (1:3.24.3-1blankon5.1) experimental; urgency=medium
+gnome-control-center (1:3.24.3-1blankon5.1) uluwatu; urgency=medium
 
   * remove logo-generatore patch
   * 
